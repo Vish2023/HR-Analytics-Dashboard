@@ -1,0 +1,16 @@
+JobLevel,MaritalStatus,Avg_income,Employee_count
+1,Divorced,2768.42,109
+1,Married,2826.13,232
+1,Single,2751.85,202
+2,Divorced,5411.40,122
+2,Married,5524.31,251
+2,Single,5536.78,161
+3,Divorced,10046.58,55
+3,Married,9980.47,99
+3,Single,9367.69,64
+4,Divorced,15540.09,23
+4,Married,15558.59,56
+4,Single,15359.19,27
+5,Divorced,19287.94,18
+5,Married,19157.91,35
+5,Single,19157.88,16

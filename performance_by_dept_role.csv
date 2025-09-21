@@ -1,0 +1,12 @@
+Department,JobRole,Avg_performance_rating
+"Human Resources","Human Resources",3.13
+"Human Resources",Manager,3.18
+"Research & Development","Healthcare Representative",3.15
+"Research & Development","Laboratory Technician",3.16
+"Research & Development",Manager,3.19
+"Research & Development","Manufacturing Director",3.19
+"Research & Development","Research Director",3.10
+"Research & Development","Research Scientist",3.17
+Sales,Manager,3.22
+Sales,"Sales Executive",3.13
+Sales,"Sales Representative",3.14

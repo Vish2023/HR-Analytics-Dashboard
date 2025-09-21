@@ -1,0 +1,7 @@
+Department,OverTime,Job_satisfaction_rate,Employee_count
+"Human Resources",No,2.59,46
+"Human Resources",Yes,2.65,17
+"Research & Development",No,2.74,690
+"Research & Development",Yes,2.70,271
+Sales,No,2.67,318
+Sales,Yes,2.95,128
