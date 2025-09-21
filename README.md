@@ -10,7 +10,7 @@ A Tableau dashboard analyzing employee data from the [IBM HR Analytics Employee 
 - **Interactivity**: Department filter and click-based filtering for related visuals.
 
 ## Live Dashboard
-[View on Tableau Public]([https://public.tableau.com/views/HR_Analytics_Dashboard/...](https://public.tableau.com/app/profile/vishal.d.silva/viz/HR_Analytics_Dashboard_17584926827140/HRAnalyticsDashboard))
+Tableau Public: [[Insert Tableau Public URL](https://public.tableau.com/app/profile/vishal.d.silva/viz/HR_Analytics_Dashboard_17584926827140/HRAnalyticsDashboard)]
 
 ## Files
 - `HR_Analytics_Dashboard.twbx`: Tableau workbook.
@@ -27,3 +27,6 @@ The dashboard uses five SQL queries (see repository files or Tableau workbook fo
 - **SQL**: MySQL Workbench for querying.
 - **Tableau**: Tableau Public for visualization.
 - **Dataset**: Kaggle HR Analytics dataset.
+
+## Screenshots
+![Dashboard Screenshot](HR_Analytics_Dashboard_Screenshot.png)
